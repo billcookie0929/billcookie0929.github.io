@@ -24,6 +24,7 @@ Hello World!
 vim键盘图：
 
 ![](https://github.com/billcookie0929/Personal_Practice/blob/master/Python/Note/wm.jpg)
+
 按i进入插入模式，输入代码：
 
 ```
